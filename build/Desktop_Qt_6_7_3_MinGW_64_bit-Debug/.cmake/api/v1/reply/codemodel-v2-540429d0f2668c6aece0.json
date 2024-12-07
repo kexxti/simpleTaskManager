@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9f18305a1d4d52d7b8cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "taskmngr",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "taskmngr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-taskmngr-Debug-51bc3add6c477e1b3fcd.json",
+					"name" : "taskmngr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "taskmngr_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-taskmngr_autogen-Debug-d2267110bc8fbaffb753.json",
+					"name" : "taskmngr_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "taskmngr_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-taskmngr_autogen_timestamp_deps-Debug-9ca335f554ba2b1cec50.json",
+					"name" : "taskmngr_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kexxti/Desktop/qt_proj/taskmngr/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/kexxti/Desktop/qt_proj/taskmngr"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

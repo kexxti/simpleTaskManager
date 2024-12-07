@@ -1,0 +1,17 @@
+# ninja log v6
+9	929	7552507079693807	taskmngr_autogen/timestamp	9d008e4bbbeb3f97
+9	929	7552507079693807	taskmngr_autogen/mocs_compilation.cpp	9d008e4bbbeb3f97
+9	929	7552507079693807	C:/Users/kexxti/Desktop/qt_proj/taskmngr/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/taskmngr_autogen/timestamp	9d008e4bbbeb3f97
+9	929	7552507079693807	C:/Users/kexxti/Desktop/qt_proj/taskmngr/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/taskmngr_autogen/mocs_compilation.cpp	9d008e4bbbeb3f97
+939	3880	7552507081068847	CMakeFiles/taskmngr.dir/taskmngr_autogen/mocs_compilation.cpp.obj	d065c1790f54829c
+945	4046	7552507081068847	CMakeFiles/taskmngr.dir/main.cpp.obj	f7a683e300fac9f0
+950	4530	7552507081225108	CMakeFiles/taskmngr.dir/mainwindow.cpp.obj	486e222b7ba47b0a
+4532	4919	7552507117080238	taskmngr.exe	a1831a5c03bc272b
+54	1614	7552508474662934	taskmngr_autogen/timestamp	9d008e4bbbeb3f97
+54	1614	7552508474662934	taskmngr_autogen/mocs_compilation.cpp	9d008e4bbbeb3f97
+54	1614	7552508474662934	C:/Users/kexxti/Desktop/qt_proj/taskmngr/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/taskmngr_autogen/timestamp	9d008e4bbbeb3f97
+54	1614	7552508474662934	C:/Users/kexxti/Desktop/qt_proj/taskmngr/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/taskmngr_autogen/mocs_compilation.cpp	9d008e4bbbeb3f97
+1622	7376	7552508475852690	CMakeFiles/taskmngr.dir/main.cpp.obj	f7a683e300fac9f0
+1618	7545	7552508475812687	CMakeFiles/taskmngr.dir/taskmngr_autogen/mocs_compilation.cpp.obj	d065c1790f54829c
+1627	7930	7552508475863974	CMakeFiles/taskmngr.dir/mainwindow.cpp.obj	486e222b7ba47b0a
+7930	8336	7552508538933886	taskmngr.exe	a1831a5c03bc272b
